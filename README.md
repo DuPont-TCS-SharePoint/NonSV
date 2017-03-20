@@ -1,3 +1,3 @@
 # NonSV
 Hello All,
-This is a repository cerated for all the code or Non SV Applications.
+This is a repository created for all the code for Non SV Applications.
